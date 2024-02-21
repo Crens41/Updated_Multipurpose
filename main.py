@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import About, Trans, Chat, About_app, Calculator
+import About, Trans, Chat, About_app
 
 class MultiPurpose:
     def __init__(self):
